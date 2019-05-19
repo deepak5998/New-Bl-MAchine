@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b6d4ca92-51bc-446c-af28-483bd29f7824" name="Default Changelist" comment="Week 10 problem 1 of decision tree of social_network_ads">
+      <change beforePath="$PROJECT_DIR$/Week12/Hierachical clustering/Problem2/ create group of mall customers based on their annual income and spending score.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Week12/Hierachical clustering/Problem2/ create group of mall customers based on their annual income and spending score.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week5/.ipynb_checkpoints/DataPreprocessing-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Week5/.ipynb_checkpoints/DataPreprocessing-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week5/.ipynb_checkpoints/Linear_Regression-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Week5/.ipynb_checkpoints/Linear_Regression-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week5/DataPreprocessing.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week5/Linear_Regression.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week5/data_preprocessing.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week5/test.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week5/train.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week6/Logistic Regression/Problem1/Logistic Predict whether client will subscribe to term deposit.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Week6/Logistic Regression/Problem1/Logistic Predict whether client will subscribe to term deposit.ipynb" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Week10/Naive Bayes/Problem2/Data/1625Data.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="76" />
+    <option name="y" value="46" />
+    <option name="width" value="1280" />
+    <option name="height" value="702" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Machine_learning_Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Machine_learning_Python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Machine_learning_Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Machine_learning_Python" type="462c0819:PsiDirectoryNode" />
+              <item name="Week11" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Machine_learning_Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Machine_learning_Python" type="462c0819:PsiDirectoryNode" />
+              <item name="Week11" type="462c0819:PsiDirectoryNode" />
+              <item name="Confusion matrix" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Machine_learning_Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Machine_learning_Python" type="462c0819:PsiDirectoryNode" />
+              <item name="Week11" type="462c0819:PsiDirectoryNode" />
+              <item name="Confusion matrix" type="462c0819:PsiDirectoryNode" />
+              <item name="NaiveBayes" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6d4ca92-51bc-446c-af28-483bd29f7824" name="Default Changelist" comment="" />
+      <created>1555167020843</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555167020843</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Week 11 problem of predict salary using Random forest.">
+      <created>1555996601616</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1555996601616</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="27" width="1299" height="741" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.4992163" visible="true" weight="0.049586777" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4992163" weight="0.8049587" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5007837" side_tool="true" weight="0.3289256" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4992163" weight="0.3289256" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4992163" weight="0.8049587" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5007837" side_tool="true" weight="0.3289256" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Week 10 problem 1 of decision tree of social_network_ads" />
+    <MESSAGE value="Week 11 problem of predict salary using Random forest." />
+    <option name="LAST_COMMIT_MESSAGE" value="Week 11 problem of predict salary using Random forest." />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Week5/Practice stuff/.ipynb_checkpoints/Linear_Regression-checkpoint.ipynb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week5/Linear Regression/problem_1/.ipynb_checkpoints/Linear_Regression-checkpoint.ipynb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week13/NLP/twitter trial/model.py.ipynb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
