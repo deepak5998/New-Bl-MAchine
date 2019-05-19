@@ -12,6 +12,13 @@ build/
 develop-eggs/
 dist/
 downloads/
+
+.idea/
+venv/
+*dataset/*
+dataset/
+Week15/CNN problems/Problem3/dataset/
+
 eggs/
 .eggs/
 lib/
